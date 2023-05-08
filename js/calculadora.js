@@ -1,4 +1,4 @@
-// seleccionar los elementos del DOM
+// Seleccionar elementos del HTML
 const screen = document.getElementById("escribe");
 const numeros = document.querySelectorAll("#numero");
 const operaciones = document.querySelectorAll("#operacion");
